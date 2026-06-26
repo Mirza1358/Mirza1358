@@ -6,7 +6,8 @@ Hi there, I'm **Muhammad Bilal Mirza**! 👋
 
 I'm a developer from **Islamabad, Pakistan**, currently focused on my **Final Year Project** involving **Machine Learning** and **Development**.
 
-- � I have previously worked on **ERP/SAP** systems.
+- � I have previously worked on **ERP/SAP** systems in FFC.
+- � I have also previously worked as **Data analytic** in DeveloperHub Coperation 
 - 🌱 I’m exploring various technologies.
 
 ## 🌐 Socials:
